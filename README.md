@@ -1,3 +1,3 @@
-# bl4s23
+# Welcome to SPACE SPONGE project code repository!
 
 Opis plików
