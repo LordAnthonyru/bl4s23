@@ -1,3 +1,3 @@
-# Welcome to SPACE SPONGE project code repository!
+# SPACE SPONGE project repository!
 
 Opis plików
